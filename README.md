@@ -57,7 +57,7 @@ gcc PwnKit-Patch-Finder.c -o PwnKit-Patch-Finder
 PwnKit-Hunter was developed by CyberArk Labs as a quick and dirty POC intended to help security teams worldwide.  
     
 ### Created by:  
-Alon Zahavi, Yaniv Yakobovich, and Asaf Hecht ([@Hechtov](https://twitter.com/Hechtov))  
+Alon Zahavi ([A.Zahavi](https://www.linkedin.com/in/alon-zahavi-529499143)), Yaniv Yakobovich, and Asaf Hecht ([@Hechtov](https://twitter.com/Hechtov))  
   
 ### Feedback and comments are welcome!  
 
