@@ -16,11 +16,11 @@ https://www.cyberark.com/resources/threat-research-blog
   
 The tools are:
   
-CVE-2021-4034_Finder.py:
+### CVE-2021-4034_Finder.py:
 
 This script uses your apt cache to find the current installed version of polkit and compare it to the patched version according to your distribution.
 
-PwnKit-Patch-Finder.c:
+### PwnKit-Patch-Finder.c:
 
 The patch of Debian and Ubuntu to CVE-2021-4043 contained new exit() line that occurs only if the policykit-1 package is patched. This code will try to trigger this exit(), and will search for the appropriate code. In case pkexec exited with different code, the package needs to be updated.
 
