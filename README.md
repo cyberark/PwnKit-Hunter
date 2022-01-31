@@ -59,5 +59,5 @@ PwnKit-Hunter was developed by CyberArk Labs as a quick and dirty POC intended t
 ### Created by:  
 Alon Zahavi, Yaniv Yakobovich, and Asaf Hecht ([@Hechtov](https://twitter.com/Hechtov))  
   
-**Feedback and comments are welcome!**  
+### Feedback and comments are welcome!  
 
