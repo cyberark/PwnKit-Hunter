@@ -7,8 +7,8 @@
  
 int main(void)
 {
-	puts("---> PwnKit-Hunter <---\n");
-	puts("[*] DISCLAIMER: This tool is only valid on Debian, Ubuntu, and their variants.");
+    puts("---> PwnKit-Hunter <---\n");
+    puts("[*] DISCLAIMER: This tool is only valid on Debian, Ubuntu, and their variants.");
 	
     pid_t pid = fork();
      
