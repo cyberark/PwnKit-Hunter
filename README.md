@@ -1,5 +1,7 @@
-# PwnKit-Hunter
-
+<p align="left">
+  <img src="https://github.com/Hechtov/Photos/blob/master/PwnKit-Hunter/PwnKit-Hunter%20logo1.png">
+</p>
+  
 # Background
 
 Last week, a significant vulnerability in polkit’s pkexec was publicly disclosed ([link](https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034)). By exploiting this vulnerability, attackers on a vulnerable host could easily gain full root privileges from any unprivileged user.
