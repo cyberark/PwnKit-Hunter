@@ -14,7 +14,7 @@ https://www.cyberark.com/resources/threat-research-blog/checking-for-vulnerable-
 
 # What is “PwnKit-Hunter” and how it can help me?
 
-[PwnKit-Hunter](https://github.com/cyberark/PwnKit-Hunter) is a set of tools that will search for you whether your system’s polkit package is vulnerable to CVE-2021-4043, a.k.a. PwnKit.
+PwnKit-Hunter is a set of tools that will search for you whether your system’s polkit package is vulnerable to CVE-2021-4043, a.k.a. PwnKit.
   
 The tools are:
   
