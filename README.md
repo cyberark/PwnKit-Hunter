@@ -8,8 +8,8 @@ Last week, a significant vulnerability in polkit’s pkexec was publicly disclos
 
 Following the public disclosure of this “PwnKit” vulnerability, we developed simple scripts to detect and check if a scanned host is vulnerable or not. The script can help organizations and security teams in their important task of checking all their Linux-based machines and make sure they are not exposed to the Polkit vulnerability.
 
-More details can be found in our blog post:  
-https://www.cyberark.com/resources/threat-research-blog
+Additional details can be found in our blog post:  
+https://www.cyberark.com/resources/threat-research-blog/checking-for-vulnerable-systems-for-cve-2021-4034-with-pwnkit-hunter
 
 
 # What is “PwnKit-Hunter” and how it can help me?
