@@ -56,7 +56,7 @@ gcc PwnKit-Patch-Finder.c -o PwnKit-Patch-Finder
 # Final Notes
 PwnKit-Hunter was developed by CyberArk Labs as a "quick and dirty" POC intended to help security teams worldwide.  
 
-### License
+### License:
 Copyright (c) 2021 CyberArk Software Ltd. All rights reserved.    
 This repository is licensed under MIT License.  
     
